@@ -1,0 +1,9 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "description": "USD fiat-backed stablecoin on Ethereum.",
+    "website": "https://yourdomain.com",
+    "explorer": "https://etherscan.io/token/0x90118943c692E725dB8E9a90DE9bcF71C878B3ff",
+    "status": "active"
+}
